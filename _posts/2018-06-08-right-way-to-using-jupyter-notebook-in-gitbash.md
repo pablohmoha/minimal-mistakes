@@ -28,7 +28,7 @@ PATH=$PATH:/c/Users/username/Anaconda3/Scripts
 
 NB: In place of username replace with your username in my case it is Muhia. You can see this name from your git bash
 
-![Editing vim]({{ "/assets/images/vimeditor.png" | absolute_url }})
+![Editing vim]({{ "/assets/images/vimeditor.jpg" | absolute_url }})
 
 - Once you have added the PATH to Anaconda3 scripts press 'Esc' key to exit editing. 
 Enter ':' followed by 'x' and finally 'Enter' key to exit Vim editor.
@@ -45,6 +45,6 @@ which jupyter
 jupyter notebook
 {% endhighlight %}
 
-![Jupyter notebook]({{ "/assets/images/jupyternotebook.png" | absolute_url }})
+![Jupyter notebook]({{ "/assets/images/jupyternotebook.jpg" | absolute_url }})
 
 Hope that helps and especially those starting out in data science and have been following tutorials which advices on using jupyter notebook on git bash for windows users.
